@@ -1,0 +1,5 @@
+{
+    "api_key": "your_twitch_api_key",
+    "max_items": 50,
+    "keywords": ["gaming", "twitch"]
+}
